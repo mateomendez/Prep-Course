@@ -1,4 +1,5 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
+// En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 const { normalizePath } = require("@11ty/eleventy/src/TemplateGlob");
 
